@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.#*
+\#*#
+*.bak
+
+# Obsidian
+.obsidian/
+
+# LaTeX build artifacts (in case TeX sources are added later)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python / Node, just in case tooling gets added later
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+.env
+
+# Local scratch
+scratch/
+.tmp/

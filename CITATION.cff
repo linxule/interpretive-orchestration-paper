@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite the Version of Record once available. Until then, please cite this accepted manuscript as below."
+title: "Interpretive Orchestration: An Essay Exploring the Epistemic Intersection of Human Intuition and Machine Intelligence"
+type: article
+authors:
+  - family-names: Lin
+    given-names: Xule
+    affiliation: "SKEMA Business School, Université Côte d'Azur"
+    email: x@linxule.com
+    website: "https://linxule.com"
+    orcid: "https://orcid.org/0000-0001-7885-4194"
+  - family-names: Corley
+    given-names: Kevin G.
+    affiliation: "Imperial Business School, Imperial College London"
+    email: k.corley@imperial.ac.uk
+    website: "https://profiles.imperial.ac.uk/k.corley"
+    orcid: "https://orcid.org/0000-0002-6556-5032"
+abstract: >-
+  As artificial intelligence capabilities expand beyond pattern recognition
+  to theoretical insight generation, interpretive qualitative research
+  confronts a question of epistemic responsibility: how can scholars
+  integrate AI capabilities while remaining accountable for their
+  theoretical interpretations? This essay proposes 'interpretive
+  orchestration' as a framework that transforms researchers from analysts
+  into skilled orchestrators of human-AI collaboration. Three strategic
+  models guide this orchestration: Socratic tension surfaces implicit
+  assumptions through deliberate contradiction; Euclidean documentation
+  enables reproducible analysis through systematic context-building;
+  Vitruvian mastery reads across independent analytical passes for
+  synthetic insight.
+keywords:
+  - qualitative methods
+  - generative AI
+  - human-AI collaboration
+  - epistemic responsibility
+  - interpretive orchestration
+  - tacit knowledge
+license: CC-BY-NC-ND-4.0
+# The following fields will be updated once the Version of Record is assigned:
+journal: "Strategic Organization"
+publisher:
+  name: "SAGE Publications"
+year: 2026
+# doi: 10.xxxx/xxxxxxxx
+# volume:
+# issue:
+# start:
+# end:
+# url:
