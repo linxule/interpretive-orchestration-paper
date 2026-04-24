@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use or reference this work, please cite the Version of Record once available. Until then, please cite this accepted manuscript as below."
+message: "If you use or reference this work, please cite the Version of Record once available. Until then, please cite this accepted manuscript as below; the author-accepted manuscript is also available on SSRN at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679."
 title: "Interpretive Orchestration: An Essay Exploring the Epistemic Intersection of Human Intuition and Machine Intelligence"
 type: article
 authors:
@@ -36,6 +36,10 @@ keywords:
   - interpretive orchestration
   - tacit knowledge
 license: CC-BY-NC-ND-4.0
+identifiers:
+  - type: url
+    value: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679"
+    description: "SSRN working paper (author-accepted manuscript), pending Version of Record"
 # The following fields will be updated once the Version of Record is assigned:
 journal: "Strategic Organization"
 publisher:

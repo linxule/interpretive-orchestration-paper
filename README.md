@@ -7,6 +7,8 @@
 
 > **Accepted for publication in *Strategic Organization*.** Full citation and DOI forthcoming. This is the accepted manuscript (AAM); the Version of Record will be available via SAGE.
 
+> *Where to read this:* The AAM is available here and on SSRN at [papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679). Until the Version of Record is assigned, either link serves as the canonical pointer; this README will be updated once SAGE assigns DOI, volume, issue, and pages.
+
 > *Note on affiliations:* Author affiliations in the manuscript reflect those at time of publication. At the time of writing, Xule Lin is a Research Associate at Imperial Business School and will join SKEMA Business School as Assistant Professor in August 2026.
 
 ## Abstract
@@ -23,13 +25,15 @@ As artificial intelligence capabilities expand beyond pattern recognition to the
 
 ## Cite this as
 
-*Full citation will be added once the Version of Record is assigned.*
+*Full citation will be added once the Version of Record is assigned. In the interim, the author-accepted manuscript is available via SSRN at the link below.*
 
 ```
-Lin, X., & Corley, K. (forthcoming). Interpretive orchestration: An essay
-exploring the epistemic intersection of human intuition and machine
-intelligence. Strategic Organization. [Volume/Issue/Pages and DOI to be
-updated when the Version of Record is published.]
+Lin, X., & Corley, K. G. (forthcoming). Interpretive orchestration:
+An essay exploring the epistemic intersection of human intuition and
+machine intelligence. Strategic Organization. SSRN working paper:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679
+[Volume/Issue/Pages and DOI to be updated when the Version of Record
+is published.]
 ```
 
 For the authoritative version, please cite the Version of Record once
