@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use or reference this work, please cite the Version of Record once available. Until then, please cite this accepted manuscript as below; the author-accepted manuscript is also available on SSRN at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679."
+message: "Please cite the Version of Record via the DOI below. The author-accepted manuscript is also available on SSRN at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679."
 title: "Interpretive Orchestration: An Essay Exploring the Epistemic Intersection of Human Intuition and Machine Intelligence"
 type: article
 authors:
@@ -35,19 +35,21 @@ keywords:
   - epistemic responsibility
   - interpretive orchestration
   - tacit knowledge
-license: CC-BY-NC-ND-4.0
+license: CC-BY-4.0
+doi: "10.1177/14761270261448645"
 identifiers:
+  - type: doi
+    value: "10.1177/14761270261448645"
+    description: "Version of Record (advance online publication)"
   - type: url
     value: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679"
-    description: "SSRN working paper (author-accepted manuscript), pending Version of Record"
-# The following fields will be updated once the Version of Record is assigned:
+    description: "SSRN preprint (author-accepted manuscript)"
 journal: "Strategic Organization"
 publisher:
   name: "SAGE Publications"
 year: 2026
-# doi: 10.xxxx/xxxxxxxx
+url: "https://doi.org/10.1177/14761270261448645"
 # volume:
 # issue:
 # start:
 # end:
-# url:

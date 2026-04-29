@@ -1,4 +1,4 @@
-> **Accepted for publication in *Strategic Organization*.** Full citation and DOI forthcoming. © 2026 Xule Lin and Kevin Corley. This is the accepted manuscript version; the Version of Record will be available via SAGE. Shared under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+> **Published in *Strategic Organization* (advance online publication).** DOI: [10.1177/14761270261448645](https://doi.org/10.1177/14761270261448645). © 2026 Xule Lin and Kevin Corley. Open access under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 

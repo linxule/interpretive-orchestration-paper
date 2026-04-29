@@ -5,9 +5,9 @@
 *By [Xule Lin](https://linxule.com) ([ORCID](https://orcid.org/0000-0001-7885-4194)) — SKEMA Business School, Université Côte d'Azur*
 *and [Kevin Corley](https://profiles.imperial.ac.uk/k.corley) ([ORCID](https://orcid.org/0000-0002-6556-5032)) — Imperial Business School, Imperial College London*
 
-> **Accepted for publication in *Strategic Organization*.** Full citation and DOI forthcoming. This is the accepted manuscript (AAM); the Version of Record will be available via SAGE.
+> **Published in *Strategic Organization* (advance online publication).** DOI: [10.1177/14761270261448645](https://doi.org/10.1177/14761270261448645). Open access under CC BY 4.0.
 
-> *Where to read this:* The AAM is available here and on SSRN at [papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679). Until the Version of Record is assigned, either link serves as the canonical pointer; this README will be updated once SAGE assigns DOI, volume, issue, and pages.
+> *Where to read this:* The Version of Record is available at [doi.org/10.1177/14761270261448645](https://doi.org/10.1177/14761270261448645). The author-accepted manuscript is also available here and on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679). Volume, issue, and page numbers will be updated once assigned.
 
 > *Note on affiliations:* Author affiliations in the manuscript reflect those at time of publication. At the time of writing, Xule Lin is a Research Associate at Imperial Business School and will join SKEMA Business School as Assistant Professor in August 2026.
 
@@ -20,31 +20,24 @@ As artificial intelligence capabilities expand beyond pattern recognition to the
 ## Contents
 
 - [`manuscript.md`](manuscript.md) — Accepted manuscript, full text
-- [`LICENSE`](LICENSE) — CC BY-NC-ND 4.0
+- [`LICENSE`](LICENSE) — CC BY 4.0
 - [`CITATION.cff`](CITATION.cff) — Citation metadata (GitHub renders as "Cite this repository")
 
 ## Cite this as
 
-*Full citation will be added once the Version of Record is assigned. In the interim, the author-accepted manuscript is available via SSRN at the link below.*
-
 ```
-Lin, X., & Corley, K. G. (forthcoming). Interpretive orchestration:
+Lin, X., & Corley, K. G. (2026). Interpretive orchestration:
 An essay exploring the epistemic intersection of human intuition and
-machine intelligence. Strategic Organization. SSRN working paper:
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6629679
-[Volume/Issue/Pages and DOI to be updated when the Version of Record
-is published.]
+machine intelligence. Strategic Organization (advance online publication).
+https://doi.org/10.1177/14761270261448645
 ```
 
-For the authoritative version, please cite the Version of Record once
-available via SAGE.
+Volume, issue, and page numbers will be added once assigned by SAGE.
 
 ## License
 
-The accepted manuscript text is shared under the
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
-License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-The Version of Record is subject to the publisher's separate copyright terms.
+This work is published open access under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contact
 
